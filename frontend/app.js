@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5001";
+const API_URL = "https://login-system-backend-vovl.onrender.com";
 
 const loginForm = document.getElementById("loginForm");
 const registerForm = document.getElementById("registerForm");
